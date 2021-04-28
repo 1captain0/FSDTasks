@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+h1{
+    background-color: black;
+    color: green;
+    text-align: center;
+    padding: 7px;
+}
+.main{
+    margin: auto;
+    border-radius: 25px;
+    background: cyan;
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+    line-height: 30px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+
+input[type="text"]{
+    border-radius: 5px;
+    height: 25px;;
+}
+input[type="button"]{
+    border-radius: 5px;
+    padding: 4px;
+}
+.box{
+    padding: 50px;
+    background-color:cornflowerblue;
+}
